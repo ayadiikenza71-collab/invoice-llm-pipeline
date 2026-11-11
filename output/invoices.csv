@@ -1,0 +1,11 @@
+invoice_number,vendor,date,product,quantity,unit_price,total,source_file,total_ok,valid
+INV-2026-001,AgroTrade SA,2026-06-05,Wheat,22,320,7040,invoice_01.pdf,True,True
+INV-2026-002,Sahara Grains,2026-07-10,Corn,11,250,2750,invoice_02.pdf,True,True
+INV-2026-003,AgroTrade SA,2026-01-17,Olive oil,32,3200,102400,invoice_03.pdf,True,True
+INV-2026-004,AgroTrade SA,2026-04-30,Wheat,18,320,5760,invoice_04.pdf,True,True
+INV-2026-005,Carthage Oils,2026-10-15,Olive oil,6,3200,19200,invoice_05.pdf,True,True
+INV-2026-006,Sahara Grains,2026-04-23,Olive oil,31,3200,99200,invoice_06.pdf,True,True
+INV-2026-007,Atlas Commodities,2026-04-01,Olive oil,22,3200,70400,invoice_07.pdf,True,True
+INV-2026-008,Sahara Grains,2026-05-23,Soybean,26,480,12480,invoice_08.pdf,True,True
+INV-2026-009,Sahara Grains,2026-02-22,Corn,26,250,6500,invoice_09.pdf,True,True
+INV-2026-010,AgroTrade SA,2026-07-03,Soybean,11,480,5280,invoice_10.pdf,True,True
